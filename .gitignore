@@ -1,0 +1,10 @@
+echo "__pycache__/
+.ipynb_checkpoints/
+*.pkl
+*.pt
+*.h5
+*.zip
+*.csv
+*.xlsx
+data/
+" > .gitignore
